@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
 import { Button } from '@nextui-org/button';
 import { combineClasses } from '@/lib/utils';
-import { dashboardWebsite } from '@/config';
 import { Link } from '@/navigation';
 import Logo from '@/components/logo';
 import NavMenu from '@/components/header/nav-menu';

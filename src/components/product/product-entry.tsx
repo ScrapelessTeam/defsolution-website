@@ -1,7 +1,6 @@
 import { useTranslations } from 'next-intl';
 import { Button } from '@nextui-org/react';
 import { Link } from '@/navigation';
-import { productList } from '@/config';
 import MySvg from '@/components/my-svg';
 import ContactUsPrimary from '@/components/contact-us-primary';
 

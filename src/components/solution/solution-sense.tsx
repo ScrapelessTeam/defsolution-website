@@ -1,5 +1,4 @@
 import { useTranslations } from 'next-intl';
-import { solutionList } from '@/config';
 import FeatureIntroduceCard from '@/components/feature-introduce-card';
 
 type IntroduceType = {

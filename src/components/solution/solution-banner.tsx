@@ -1,9 +1,7 @@
 import { useTranslations } from 'next-intl';
 import { Button } from '@nextui-org/react';
 import { combineClasses } from '@/lib/utils';
-import { dashboardWebsite } from '@/config';
 import { Link } from '@/navigation';
-import { solutionList } from '@/config';
 import MySvg from '@/components/my-svg';
 import BannerTextScraping from './banner/banner-text-scraping';
 

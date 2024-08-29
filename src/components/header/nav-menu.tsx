@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import { useTranslations, useLocale } from 'next-intl';
-import { docsWebsite } from '@/config';
 import {
   NavigationMenu,
   NavigationMenuContent,

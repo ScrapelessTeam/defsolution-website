@@ -1,5 +1,4 @@
 import { useTranslations } from 'next-intl';
-import { dashboardWebsite } from '@/config';
 import { Button } from '@nextui-org/react';
 import Image from 'next/image';
 import { Link } from '@/navigation';

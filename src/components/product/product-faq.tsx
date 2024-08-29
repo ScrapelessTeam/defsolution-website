@@ -1,5 +1,4 @@
 import { useTranslations } from 'next-intl';
-import { productList } from '@/config';
 import Faq from '@/components/faq';
 
 export default function ProductFaq() {

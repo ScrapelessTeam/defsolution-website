@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
-import { docsWebsite } from '@/config';
 import { combineClasses } from '@/lib/utils';
 import { Link, usePathname } from '@/navigation';
 import Logo from '@/components/logo';

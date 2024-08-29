@@ -6,7 +6,6 @@
  */
 import { useTranslations } from 'next-intl';
 import { Accordion, AccordionItem } from '@nextui-org/react';
-import { docsWebsite, dashboardWebsite } from '@/config';
 import { Button } from '@nextui-org/react';
 import { Link } from '@/navigation';
 import { ScrollArea } from '@/components/ui/scroll-area';

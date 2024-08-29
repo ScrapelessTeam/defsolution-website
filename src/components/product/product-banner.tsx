@@ -1,7 +1,6 @@
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 import { Button } from '@nextui-org/react';
-import { dashboardWebsite, docsWebsite, productList } from '@/config';
 import { Link } from '@/navigation';
 import MySvg from '@/components/my-svg';
 import '@/styles/common.scss';
