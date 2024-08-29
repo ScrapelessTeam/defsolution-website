@@ -8,18 +8,7 @@ const withNextIntl = createNextIntlPlugin();
 const nextConfig = {
   images: {
     formats: ['image/webp'],
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'assets.nstbrowser.io',
-        port: '',
-      },
-      {
-        protocol: 'http',
-        hostname: 'nstbrowser.oss-accelerate.aliyuncs.com',
-        port: '',
-      },
-    ],
+    remotePatterns: [],
   },
   sassOptions: {
     includePaths: [path.resolve(__dirname, 'src/styles')],

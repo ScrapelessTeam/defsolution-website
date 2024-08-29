@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
-import { docsWebsite, outLinks } from '@/config';
+import { docsWebsite } from '@/config';
 import { combineClasses } from '@/lib/utils';
 import { Link, usePathname } from '@/navigation';
 import Logo from '@/components/logo';
@@ -12,13 +12,6 @@ import NavMenuPhone from '@/components/header/nav-menu-phone';
 export default function Footer() {
   const t = useTranslations();
   const pathname = usePathname();
-  const medias = [
-    { icon: 'tg', href: outLinks.tg },
-    { icon: 'discord', href: outLinks.discord },
-    { icon: 'x', href: outLinks.x },
-    { icon: 'fb', href: outLinks.fb },
-    { icon: 'in', href: outLinks.ins },
-  ];
 
   const links = [
     { label: t('links.browserless'), href: '/' },

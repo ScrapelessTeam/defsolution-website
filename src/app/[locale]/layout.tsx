@@ -37,10 +37,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <body suppressHydrationWarning={true} className="bg-[var(--bg-primary)]">
-        {/* <Script src="https://www.googletagmanager.com/gtag/js?id=AW-16607807560" async></Script>
-        <Script id="gtag-script">{`window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'AW-16607807560');`}</Script> */}
-        {/* <Script src="https://code.tidio.co/zltuqowyx81fwyqvdncorwhcsqjsgqzm.js" async defer /> */}
-        {/* <Script src="https://botwafguard.nstbrowser.io/event.js" async></Script> */}
         <NextUIProvider>
           <NextIntlClientProvider
             messages={pick(messages, [

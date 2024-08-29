@@ -12,9 +12,6 @@ import {
   NavigationMenuTrigger,
   NavigationMenuViewport,
 } from '@/components/ui/navigation-menu';
-import NavMenuProduct from './nav-menu-product';
-import NavMenuSolution from './nav-menu-solution';
-import NavMenuResource from './nav-menu-resource';
 
 export default function NavMenu() {
   const t = useTranslations('Index');

@@ -124,7 +124,7 @@
       "rpa": {
         "title": "Defsolution RPA - A Free Tool to Simplify Your Web Scraping & Automation",
         "description": "Defsolution RPA executes multi-concurrent tasks easily. Helps you perform automated processes like repetitive tasks, data collection, auto-screenshots, auto-downloads, and more effortlessly.",
-        "keywords": "RPA, NstbrowserRPA, automated processes, robots, RPA robots, browser extensions, repetitive tasks, automatic screenshots, web scraping, traffic generation, automatic downloads, bulk account creation, bulk login, data export"
+        "keywords": "RPA, DefsolutionRPA, automated processes, robots, RPA robots, browser extensions, repetitive tasks, automatic screenshots, web scraping, traffic generation, automatic downloads, bulk account creation, bulk login, data export"
       },
       "cloudflare-bypass": {
         "title": "Cloudflare Turnstile Solver - Automated Solution for Cloudflare's Turnstile and Challenge.",
@@ -182,7 +182,7 @@
     "rpa_marketplace": {
       "title": "Defsolution RPA - Explore Automated Workflows and Web Scraping Tools in the Marketplace",
       "description": "Discover the power of automated workflows in the RPA marketplace. Explore the wealth of ready-to-use automation tools and workflows. Easily solve business challenges and realize process automation",
-      "keywords": "RPA Marketplace,RPA、NstbrowserRPA,automated processes,robots, RPA robots,browser extensions,data extraction,web scraper,workflow automation,Cross-platform automation,Non-code automation platform、rpa robots"
+      "keywords": "RPA Marketplace,RPA、DefsolutionRPA,automated processes,robots, RPA robots,browser extensions,data extraction,web scraper,workflow automation,Cross-platform automation,Non-code automation platform、rpa robots"
     },
     "affiliate_programs": {
       "title": "Defsolution Affiliate Programs - An Anti-Detect Browser Helps Earn Money",
@@ -295,13 +295,13 @@
           "listTitle1": "Browser Emulation",
           "listSubTitle1": "Mimic real user behavior, allowing web scraping activities to appear as genuine human browsing, creating a more authentic online presence, and reducing the likelihood of triggering automated protection mechanisms.",
           "listTitle2": "User-Agent Rotation",
-          "listSubTitle2": "Most browsers enable the rotation of User-Agent headers, which identify the browser and operating system being used. By switching User-Agent values, Nstbrowsers help prevent websites from recognizing and blocking scraping activities",
+          "listSubTitle2": "Most browsers enable the rotation of User-Agent headers, which identify the browser and operating system being used. By switching User-Agent values, Defsolutions help prevent websites from recognizing and blocking scraping activities",
           "listTitle3": "Multiple Profiles",
-          "listSubTitle3": "Nstbrowsers can help you open unlimited profiles and scrape data without encountering any problems, allowing for increased productivity and the ability to gather a larger volume of data.",
+          "listSubTitle3": "Defsolutions can help you open unlimited profiles and scrape data without encountering any problems, allowing for increased productivity and the ability to gather a larger volume of data.",
           "listTitle4": "Processes automation",
           "listSubTitle4": "Eliminate mundane and repetitive tasks by automating your account and profile management.",
           "listTitle5": "Cookie Management",
-          "listSubTitle5": "Nstbrowsers provide capabilities to handle cookies effectively, ensuring that session information and website preferences are preserved during scraping sessions.",
+          "listSubTitle5": "Defsolutions provide capabilities to handle cookies effectively, ensuring that session information and website preferences are preserved during scraping sessions.",
           "listTitle6": "Enhance Teamwork",
           "listSubTitle6": "Enhanced teamwork and permission control contribute to more efficient and organized web scraping activities, ensuring a seamless and collaborative data extraction process."
         }
@@ -498,7 +498,7 @@
     "joinTitle": "Join Our Affiliate Program",
     "subDesc": "Earn money through our affiliate program, we'd love to help you!",
     "joinNow": "Join Now",
-    "nstbrowser": "nstbrowser",
+    "Defsolution": "Defsolution",
     "affiliatePrograms": "Affiliate Programs",
     "affiliateProgramsDesc": "By participating in our program, you will have the opportunity to promote our products and services and earn lucrative commissions.",
     "headGuideData": {
