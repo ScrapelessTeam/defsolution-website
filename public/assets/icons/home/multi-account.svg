@@ -1,0 +1,29 @@
+<svg width="52" height="48" viewBox="0 0 52 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 427322153">
+<path id="Rectangle 2734" d="M6.13637 8.18189C6.13637 6.52503 7.47951 5.18188 9.13637 5.18188H26V24.0001H6.13637V8.18189Z" stroke="#D8D9E0" stroke-width="2"/>
+<path id="Rectangle 2737" d="M26 24H45.8636V39.8182C45.8636 41.475 44.5205 42.8182 42.8636 42.8182H26V24Z" stroke="#D8D9E0" stroke-width="2"/>
+<path id="Rectangle 2735" d="M26 4C26 2.34315 27.3431 1 29 1H47.0455C48.7023 1 50.0455 2.34315 50.0455 4V21C50.0455 22.6569 48.7023 24 47.0455 24H26V4Z" stroke="#1E1F24" stroke-width="2"/>
+<path id="Rectangle 2739" d="M1.95454 26C1.95454 24.8954 2.84997 24 3.95454 24H24C25.1046 24 26 24.8954 26 26V45C26 46.1046 25.1046 47 24 47H3.95454C2.84997 47 1.95454 46.1046 1.95454 45V26Z" fill="url(#paint0_linear_581_5593)" fill-opacity="0.4"/>
+<path id="Rectangle 2738" d="M1.95454 27C1.95454 25.3431 3.29769 24 4.95454 24H26V44C26 45.6569 24.6569 47 23 47H4.95454C3.29769 47 1.95454 45.6569 1.95454 44V27Z" stroke="#1E1F24" stroke-width="2"/>
+<circle id="Ellipse 1975" cx="30.1818" cy="5.18193" r="1.04545" fill="#1E1F24"/>
+<circle id="Ellipse 1976" cx="33.3182" cy="5.18193" r="1.04545" fill="#1E1F24"/>
+<circle id="Ellipse 1977" cx="36.4545" cy="5.18193" r="1.04545" fill="#1E1F24"/>
+<circle id="Ellipse 1984" cx="6.13637" cy="28.1819" r="1.04545" fill="#1E1F24"/>
+<circle id="Ellipse 1978" cx="30.1818" cy="28.1819" r="1.04545" fill="#D8D9E0"/>
+<circle id="Ellipse 1979" cx="33.3182" cy="28.1819" r="1.04545" fill="#D8D9E0"/>
+<circle id="Ellipse 1980" cx="36.4545" cy="28.1819" r="1.04545" fill="#D8D9E0"/>
+<circle id="Ellipse 1985" cx="9.27272" cy="28.1819" r="1.04545" fill="#1E1F24"/>
+<circle id="Ellipse 1986" cx="12.4091" cy="28.1819" r="1.04545" fill="#1E1F24"/>
+<circle id="Ellipse 1981" cx="10.3182" cy="9.36357" r="1.04545" fill="#D8D9E0"/>
+<circle id="Ellipse 1982" cx="13.4545" cy="9.36357" r="1.04545" fill="#D8D9E0"/>
+<circle id="Ellipse 1983" cx="16.5909" cy="9.36357" r="1.04545" fill="#D8D9E0"/>
+<path id="Polygon 3" d="M25.5 15.9251C25.8094 15.7465 26.1906 15.7465 26.5 15.9251L32.7431 19.5296C33.0525 19.7083 33.2431 20.0384 33.2431 20.3956V27.6046C33.2431 27.9618 33.0525 28.292 32.7431 28.4706L26.5 32.0751C26.1906 32.2537 25.8094 32.2537 25.5 32.0751L19.2569 28.4706C18.9475 28.292 18.7569 27.9618 18.7569 27.6046V20.3956C18.7569 20.0384 18.9475 19.7083 19.2569 19.5296L25.5 15.9251Z" fill="white" stroke="black" stroke-width="2"/>
+<circle id="Ellipse 1970" cx="26" cy="24.0001" r="2.61364" fill="#646AEE" fill-opacity="0.8"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_581_5593" x1="5.09091" y1="47" x2="5.09091" y2="26.0909" gradientUnits="userSpaceOnUse">
+<stop stop-color="#646AEE" stop-opacity="0"/>
+<stop offset="1" stop-color="#646AEE"/>
+</linearGradient>
+</defs>
+</svg>

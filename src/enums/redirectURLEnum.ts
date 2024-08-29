@@ -1,0 +1,15 @@
+export enum redirectURLEnum {
+  DOCS = 'docs',
+  RELEASE_NOTES = 'release-notes',
+  DISCORD = 'discord',
+  TELEGRAM = 'telegram',
+  TWITTER = 'twitter',
+  FACEBOOK = 'facebook',
+  LINKEDIN = 'linkedin',
+  PIONEER = 'pioneer',
+  AFFILIATE_PROGRAM = 'affiliate-program',
+  APP_DASHBOARD = 'app-dashboard',
+  LOGIN_WITH_GOOGLE = 'login-with-google',
+  register = 'register',
+  API_DOCS_CLOUDFLARE = 'api-docs-cloudflare',
+}

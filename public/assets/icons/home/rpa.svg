@@ -1,0 +1,20 @@
+<svg width="54" height="52" viewBox="0 0 54 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 427322146">
+<path id="Rectangle 2734" d="M8.67855 44.3214C6.54831 44.3214 4.82141 42.5945 4.82141 40.4643V17.3214C4.82141 10.9307 10.0021 5.75 16.3928 5.75H37.6071C43.9978 5.75 49.1786 10.9307 49.1786 17.3214V40.4643C49.1786 42.5945 47.4517 44.3214 45.3214 44.3214" stroke="#1E1F24" stroke-width="2" stroke-linecap="round"/>
+<rect id="Rectangle 34624239" x="13.5" y="34.6785" width="27" height="15.4286" rx="7.71429" fill="white" stroke="#1E1F24" stroke-width="2"/>
+<path id="Vector 918" d="M22.1786 39.5L24.5893 42.3929L22.1786 45.2857" stroke="#646AEE" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 921" d="M29.4107 39.5L31.8214 42.3929L29.4107 45.2857" stroke="#646AEE" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 920" d="M39.3214 12.5H14.6786C11.3649 12.5 8.67859 15.1863 8.67859 18.5V21.8571C8.67859 26.2754 12.2603 29.8571 16.6786 29.8571H19.057C20.7389 29.8571 22.3435 29.1513 23.48 27.9115L26.2629 24.8756C26.6592 24.4432 27.3408 24.4432 27.7372 24.8756L30.5201 27.9115C31.6565 29.1513 33.2612 29.8571 34.943 29.8571H37.3214C41.7397 29.8571 45.3214 26.2754 45.3214 21.8571V18.5C45.3214 15.1863 42.6352 12.5 39.3214 12.5Z" fill="url(#paint0_linear_581_5723)" fill-opacity="0.4"/>
+<path id="Vector 915" d="M18.3214 19.25V22.1429" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector 916" d="M35.6786 19.25V22.1429" stroke="#1E1F24" stroke-width="4" stroke-linecap="round"/>
+<path id="Rectangle 34624236" d="M0 21.5923C0 20.2157 0.936892 19.0157 2.27239 18.6818L3.85714 18.2856V34.6785L2.27239 34.2823C0.936892 33.9484 0 32.7485 0 31.3719V21.5923Z" fill="#D8D9E0"/>
+<path id="Rectangle 34624237" d="M50.1429 18.2856L51.7276 18.6818C53.0631 19.0157 54 20.2157 54 21.5923V31.3719C54 32.7485 53.0631 33.9484 51.7276 34.2823L50.1429 34.6785V18.2856Z" fill="#D8D9E0"/>
+<path id="Vector 919" d="M22.1786 1.89282H31.8214" stroke="#D8D9E0" stroke-width="2" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_581_5723" x1="40.5" y1="30.8214" x2="16.3929" y2="6.23214" gradientUnits="userSpaceOnUse">
+<stop stop-color="#646AEE" stop-opacity="0"/>
+<stop offset="1" stop-color="#646AEE"/>
+</linearGradient>
+</defs>
+</svg>

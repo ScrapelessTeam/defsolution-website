@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+**/*.svg
+
+package.json
+pnpm-lock.yaml
+
+.github
+.idea
+.next

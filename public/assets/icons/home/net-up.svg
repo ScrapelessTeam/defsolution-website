@@ -1,0 +1,58 @@
+<svg width="1920" height="481" viewBox="0 0 1920 481" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_631_21937)">
+<mask id="mask0_631_21937" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1921" height="481">
+<rect width="1921" height="481" fill="url(#paint0_diamond_631_21937)"/>
+</mask>
+<g mask="url(#mask0_631_21937)">
+<mask id="mask1_631_21937" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1921" height="481">
+<rect width="1921" height="481" fill="url(#paint1_linear_631_21937)"/>
+</mask>
+<g mask="url(#mask1_631_21937)">
+<path d="M468.05 12.8101H1452.67" stroke="#CDCED7"/>
+<path d="M455.09 25.76H1465.62" stroke="#CDCED7"/>
+<path d="M441.43 39.4199H1479.27" stroke="#CDCED7"/>
+<path d="M427.02 53.8301H1493.69" stroke="#CDCED7"/>
+<path d="M411.78 69.0701H1508.92" stroke="#CDCED7"/>
+<path d="M395.65 85.21H1525.06" stroke="#CDCED7"/>
+<path d="M378.54 102.32H1542.18" stroke="#CDCED7"/>
+<path d="M360.35 120.5H1560.35" stroke="#CDCED7"/>
+<path d="M341 139.85H1579.71" stroke="#CDCED7"/>
+<path d="M320.35 160.5H1600.35" stroke="#CDCED7"/>
+<path d="M298.28 182.57H1622.42" stroke="#CDCED7"/>
+<path d="M274.64 206.21H1646.07" stroke="#CDCED7"/>
+<path d="M249.24 231.61H1671.46" stroke="#CDCED7"/>
+<path d="M221.89 258.96H1698.81" stroke="#CDCED7"/>
+<path d="M192.35 288.5H1728.35" stroke="#CDCED7"/>
+<path d="M160.35 320.5H1760.35" stroke="#CDCED7"/>
+<path d="M125.57 355.28H1795.14" stroke="#CDCED7"/>
+<path d="M87.63 393.23H1833.08" stroke="#CDCED7"/>
+<path d="M46.0699 434.79H1874.64" stroke="#CDCED7"/>
+<path d="M0.349976 480.5H1920.35" stroke="#CDCED7"/>
+<path d="M120.35 480.5L540.35 0.5" stroke="#CDCED7"/>
+<path d="M288.35 480.5L624.35 0.5" stroke="#CDCED7"/>
+<path d="M456.35 480.5L708.35 0.5" stroke="#CDCED7"/>
+<path d="M624.35 480.5L792.35 0.5" stroke="#CDCED7"/>
+<path d="M792.35 480.5L876.35 0.5" stroke="#CDCED7"/>
+<path d="M960.35 480.5V0.5" stroke="#CDCED7"/>
+<path d="M1128.35 480.5L1044.35 0.5" stroke="#CDCED7"/>
+<path d="M1296.35 480.5L1128.35 0.5" stroke="#CDCED7"/>
+<path d="M1464.35 480.5L1212.35 0.5" stroke="#CDCED7"/>
+<path d="M1632.35 480.5L1296.35 0.5" stroke="#CDCED7"/>
+<path d="M1800.35 480.5L1380.35 0.5" stroke="#CDCED7"/>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_diamond_631_21937" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(961 481) rotate(-180) scale(927.5 3071.37)">
+<stop/>
+<stop offset="1" stop-color="#666666" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint1_linear_631_21937" x1="961" y1="481" x2="961" y2="8.64362e-07" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="#666666" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_631_21937">
+<rect width="1920.71" height="481" fill="white"/>
+</clipPath>
+</defs>
+</svg>

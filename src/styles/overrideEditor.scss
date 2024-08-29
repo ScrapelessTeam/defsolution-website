@@ -1,0 +1,126 @@
+.my-editor-preview {
+  .md-editor-preview-wrapper {
+    padding: 0px !important;
+  }
+
+  .md-editor-preview {
+    word-break: break-word;
+    --md-color: #1a1a1a;
+
+    a {
+      color: var(--md-theme-link-color);
+      &:hover {
+        color: var(--md-theme-link-hover-color);
+      }
+    }
+  }
+}
+
+.blog-detail-catalog {
+  font-size: 14px;
+  .md-editor-catalog-active {
+    & > span {
+      color: var(--primary-color) !important;
+    }
+  }
+
+  .md-editor-catalog-link {
+    & > span {
+      &:hover {
+        color: var(--primary-color) !important;
+      }
+    }
+  }
+}
+
+.blog-detail-preview-wrapper {
+  #blogPreview-preview-wrapper {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+#blogPreview {
+  .title {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+  }
+
+  .date {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    color: #646e83;
+    margin-bottom: 16px;
+  }
+
+  .content {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 157.143% */
+    color: #9ba2b0;
+  }
+
+  .end {
+    width: 100%;
+    height: 1px;
+    background: #e8ecf4;
+    margin: 32px 0;
+  }
+}
+
+html body[data-scroll-locked] {
+  overflow: overlay !important;
+  overscroll-behavior: contain;
+  position: relative !important;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0 !important;
+}
+
+button {
+  text-align: start;
+  border-radius: 4px;
+}
+
+#release-detail-preview-preview {
+  .title {
+    color: #1E1F24;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+  }
+
+  .date {
+    margin-top: 4px;
+    color: #8B8D98;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .end {
+    margin: 48px 0;
+    height: 1px;
+    background-color: #E0E1E6;
+  }
+}
+
+#blogPreview,
+#policyView,
+#release-detail-preview-preview {
+  background-color: var(--bg-primary);
+  ul > li {
+    list-style: disc;
+  }
+  
+  ol > li {
+    list-style-type: decimal;
+  }
+}

@@ -1,0 +1,3 @@
+.my-collapsed.active .arrow-icon {
+  transform: rotate(180deg);
+}

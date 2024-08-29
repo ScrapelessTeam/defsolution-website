@@ -1,0 +1,101 @@
+.my-large-text {
+  font-size: clamp(1.75rem, 2vw, 2.5rem);
+}
+
+.my-medium-text {
+  font-size: clamp(1.25rem, 2vw, 2rem);
+}
+
+.my-sem-medium-text {
+  font-size: clamp(1.25rem, 2vw, 1.75rem);
+}
+
+.my-small-text {
+  font-size: clamp(0.875rem, 2vw, 1.25rem);
+}
+
+.my-tiny-text {
+  font-size: clamp(0.875rem, 2vw, 1.125rem);
+}
+.text-h1 {
+  color: var(--text-color-1);
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.text-h2 {
+  color: var(--text-color-1);
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.text-h3 {
+  color: var(--text-color-1);
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.text-title-desc {
+  color: var(--text-color-3);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-sub-title-desc {
+  color: var(--text-color-3);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-desc-primary {
+  color: var(--text-color-4);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-title-primary {
+  color: var(--text-color-1);
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+
+  &-weight {
+    font-weight: 600;
+  }
+}
+
+.text-blog-title {
+  color: var(--text-color-2);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.text-blog-desc {
+  color: var(--text-color-2);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-ellipsis-2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.list-disc::marker {
+  color: var(--text-color-4);
+}

@@ -1,0 +1,31 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+}
+
+/* 定义滚动条的样式 */
+::-webkit-scrollbar {
+  width: 14px; /* 滚动条宽度 */
+  height: 0px; /* 滚动条高度 */
+}
+
+html::-webkit-scrollbar-track {
+  background: #f1f1f1; /* 滚动条轨道背景 */
+  border-radius: 8px;
+  margin: 4px; /* 轨道内部“内边距”的效果 */
+}
+
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15); /* 滑块颜色 */
+  border-radius: 8px; /* 滑块圆角 */
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1); /* 过渡效果 */
+  border: 4px solid transparent; /* 通过边框来创建“内边距”的效果 */
+  background-clip: padding-box; /* 使边框内部的内容不被覆盖 */
+  cursor: pointer;
+}
+
+/* 滑块在hover状态下的样式 */
+::-webkit-scrollbar-thumb:hover {
+  // background: rgba(0, 0, 0, 0.35); /* hover时滑块颜色 */
+}

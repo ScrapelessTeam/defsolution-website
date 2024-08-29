@@ -1,0 +1,4 @@
+.partnerItem:hover .share-link-icon {
+  display: block;
+  opacity: 1;
+}
